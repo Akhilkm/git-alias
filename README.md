@@ -2,5 +2,5 @@
 Short cut for git commands
 
 ```
-Should store in ~/.gitconfig file
+Should be stored in ~/.gitconfig file
 ```
